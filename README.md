@@ -1,4 +1,4 @@
-# Encrypt decrypt a text using Crypto JS and Vue JS
+# Encrypt decrypt a text using Crypto JS and Vue3 JS
 
 Live Demo: https://tackyant.com/punith_projects/encryptdecrypt/
 
