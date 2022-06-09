@@ -1,4 +1,4 @@
-# encryptdecrypt
+# Encrypt decrypt a text using Crypto JS and Vue JS
 
 ## Project setup
 ```
