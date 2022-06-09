@@ -1,5 +1,7 @@
 # Encrypt decrypt a text using Crypto JS and Vue JS
 
+Live Demo: https://tackyant.com/punith_projects/encryptdecrypt/
+
 ## Project setup
 ```
 npm install
