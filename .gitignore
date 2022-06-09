@@ -2,11 +2,5 @@ src/assets/.DS_Store
 src/.DS_Store
 .DS_Store
 node_modules
-dist/favicon.ico
-dist/index.html
-dist/css/chunk-vendors.cc486695.css
-dist/js/app.f9ca9533.js
-dist/js/app.f9ca9533.js.map
-dist/js/chunk-vendors.4ca2eb91.js
-dist/js/chunk-vendors.4ca2eb91.js.map
+dist
 package-lock.json

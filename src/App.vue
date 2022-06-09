@@ -1,5 +1,5 @@
 <template>
-  <EncryptDecryptDashboard msg="Moxo | Encrypt-Decrypt" />
+  <EncryptDecryptDashboard msg="Encrypt-Decrypt" />
 </template>
 
 <script>
